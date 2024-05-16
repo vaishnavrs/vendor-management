@@ -52,4 +52,4 @@ Access the admin interface at `http://127.0.0.1:8000/admin/`.
 8. `api/vendors/vendor_id/performance`:Retrieves Vendor Performance
     Method :Get
 8. `api/purchase_orders/po_id/acknowledgment_date`:Acknowledges the Purchase order
-9.  Method :Post
+    Method :Post
